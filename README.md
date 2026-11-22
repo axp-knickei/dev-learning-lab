@@ -10,3 +10,4 @@ A learning portfolio for the Boot.dev Programming Basics path. Course notes and 
 4. [Learn Git](04-learn-git/README.md)
 5. [Learn Object-Oriented Programming](05-learn-object-oriented-programming/README.md)
 6. [Build Asteroids](06-build-asteroids/README.md)
+7. [Learn Functional Programming in Python](07-Learn%20Functional%20Programming%20in%20Python/README.md)
