@@ -2,11 +2,11 @@
 
 ## Project Structure & Module Organization
 
-This repository is currently empty apart from workspace metadata and this guide. As projects are added, group related source files, tests, and assets in clearly named directories. Keep generated files and local dependencies out of version control. Document each project's entry points and layout in its README.
+This repository tracks the Boot.dev Programming Basics path. The top-level `README.md` links six numbered course and project directories in learning order. Add course notes and exercises to their corresponding directories; place BookBot and Asteroids code, tests, and assets in their respective project directories. Keep each directory's README current and document project entry points and layout as they are added.
 
 ## Build, Test, and Development Commands
 
-No build system or development commands are configured yet. When adding a project, document the commands needed to install dependencies, run it locally, and execute its checks in that project's README. Prefer commands that work from a clean checkout, and record any required runtime versions.
+No build system or development commands are configured yet. When adding runnable work, document dependency installation, runtime versions, execution, and checks in its README. Prefer commands that work from a clean checkout.
 
 ## Coding Style & Naming Conventions
 
@@ -18,8 +18,12 @@ No testing framework or coverage target is established yet. Add tests for meanin
 
 ## Commit & Pull Request Guidelines
 
-Git history is not available in this workspace, so no existing commit convention can be confirmed. Write concise, imperative commit subjects that describe the change. Pull requests should explain the purpose and behavior of the change, list the checks performed, and link any related issue. Include screenshots when a change affects a visible interface.
+The initial commit uses a concise, imperative subject. Follow that pattern, for example `Add learning path templates`. Pull requests should explain the purpose and behavior of the change, list the checks performed, and link any related issue. Include screenshots when a change affects a visible interface.
 
 ## Configuration & Secrets
 
-Keep credentials and machine-specific settings out of committed files. Document required configuration variables and provide a sanitized example when configuration is introduced.
+Keep credentials, machine-specific settings, generated files, and local dependencies out of version control. Document required configuration variables and provide a sanitized example when configuration is introduced.
+
+## Learning Materials
+
+Preserve the course README sections for objectives, key concepts, selected exercise links, and takeaways. Project READMEs should cover overview, how to run, technical notes, and contributions. Use placeholders for work not yet supplied; do not invent solutions, progress, or contributions.
