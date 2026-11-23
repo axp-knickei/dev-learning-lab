@@ -233,6 +233,8 @@ non_empty_records = list(filter(lambda r: r.strip() != "", records))
 
 ## 10. Personal learning reflections
 
+- [Additional note: Understanding `int` and `bool` type hints](lesson-05-filter-type-hints.md) — 2026-11-23 09:53:12 (Asia/Bangkok, UTC+07:00).
+
 - **What I understood:**
 - **What I found difficult:**
 - **Mistakes I made:**
